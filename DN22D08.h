@@ -1,3 +1,15 @@
+/*
+||
+|| @file DN22D08.h
+|| @version 1.0
+|| @author DanielTronic Labs
+|| @contact danieltronic808@gmail.com
+||
+|| @description
+||   This library provides a simple interface to use 
+||   a PLC IO RS485 DN22D08 controls the output relays and 
+||   multiplexes the 7-segment display to show numerical values.
+*/
 #ifndef DN22D08_h
 #define DN22D08_h
  

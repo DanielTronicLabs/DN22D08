@@ -1,4 +1,7 @@
-//by DanielTronic Labs 05/01/2023
+// by DanielTronic Labs 
+// danieltronic808@gmail.com
+// 05/01/2023
+
 #include <DN22D08.h>
 #include <TimerOne.h>
 int latchPin = A3;            //connect latchPin 595
